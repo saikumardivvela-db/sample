@@ -1,1 +1,3 @@
-It is updated.
+Hello, this is a sample text file.
+Python makes it easy to work with text files!
+Enjoy coding with Python
